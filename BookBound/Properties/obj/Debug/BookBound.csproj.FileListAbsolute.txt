@@ -1,0 +1,32 @@
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\bin\Debug\BookBound.exe.config
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\bin\Debug\BookBound.exe
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\bin\Debug\BookBound.pdb
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.csproj.AssemblyReference.cache
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.Properties.Resources.resources
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.csproj.GenerateResource.cache
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.csproj.CoreCompileInputs.cache
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.exe
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.pdb
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.frmStart.resources
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.frmReg.resources
+D:\PERSONAL DOCUMENTS\SCHOOL\sophomore_1ST SEM COLLEGE (SY 2024-2025)\FINALS\CIM 1101\BookBound\obj\Debug\BookBound.frmLog.resources
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.csproj.AssemblyReference.cache
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.exe
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.pdb
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\BookBound.exe.config
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\BookBound.exe
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\BookBound.pdb
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\MySql.Data.dll
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\System.Memory.dll
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\System.Buffers.dll
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\bin\Debug\MySql.Data.xml
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.Form1.resources
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.frmStart.resources
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.frmReg.resources
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.frmLog.resources
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.Properties.Resources.resources
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.csproj.GenerateResource.cache
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.csproj.CoreCompileInputs.cache
+C:\Users\John Restauro\source\repos\BookBound\drive-download-20241108T142435Z-001\obj\Debug\BookBound.csproj.Up2Date
